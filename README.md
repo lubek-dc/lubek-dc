@@ -1,7 +1,5 @@
-### Hi there 👋
-I like Game Engines, Math and C++ 👽
-
-My passions are Programming ,Math ,Physics and Chemistry
+### Hi there
+I like Java, Lua and Python
 
 ## Stats
 
